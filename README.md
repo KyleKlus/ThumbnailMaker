@@ -1,0 +1,4 @@
+##Reqirements:
+- PIL
+- Numpy
+- Tkinter
